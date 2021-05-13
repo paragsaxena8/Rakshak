@@ -145,7 +145,7 @@ Login URL: http://127.0.0.1/RVWA/login.php
 ### Troubleshooting
 
 For the latest troubleshooting information please visit:
-https://github.com/Paragsaxena08/RVWA/issues
+https://github.com/paragsaxena8/rakshak
 
 +Q. SQL Injection won't work on PHP v5.2.6.
 
