@@ -1,0 +1,4 @@
+vulnerabilities/captcha/?step=2&password_new=123&password_conf=123&passed_captcha=true&Change=Change
+
+
+document.getElementById("token").value = "38581812b435834ebf84ebcc2c6424d6"
